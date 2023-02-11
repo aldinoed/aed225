@@ -1,5 +1,8 @@
-- 👋 Hi, I’m @aed225
-- 👀 I’m interested in IT Network System Administration, Software Programming, Cloud, and All About IT
+
+<h2 style="text-align:Center">Bio</h2>
+<!-- - 👋 Hi, I’m @aed225 -->
+- 👋 Hi, I’m Aldino Erlangga D.
+- 👀 I’m interested in IT Network System Administration, Web Development, Cloud Computing, and etc.
 - 🌱 I’m currently learning as an IT Student at Politeknik Elektronika Negeri Surabaya
 <!--- 💞️ I’m looking to collaborate on GitHub
  - 📫 How to reach me ... -->
@@ -15,6 +18,10 @@ You can click the Preview link to take a look at your changes.
 <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+</div>
+<h2 style="text-align:Center">Operating System</h2>
+<div style="display:flex">
+<img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
 </div>
           
           
