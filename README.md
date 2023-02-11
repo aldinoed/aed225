@@ -10,7 +10,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h2 style="text-align:Center">Language</h2>
+<div style="display:flex">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+</div>
           
           
